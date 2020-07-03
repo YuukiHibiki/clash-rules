@@ -1,5 +1,4 @@
 # Bilibili 
 DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,bigfun.cn
-DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN,map.qq.com
+DOMAIN-SUFFIX,map.qq.com
