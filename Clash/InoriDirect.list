@@ -1,3 +1,6 @@
 # China Mobile Games
 DOMAIN-SUFFIX,hypergryph.com
+
+# China Web
+IP-CIDR,122.226.161.16/24,no-resolve
 DOMAIN,music.jsososo.com
