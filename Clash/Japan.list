@@ -1,14 +1,4 @@
-# Japan-Ip-Only
-DOMAIN-SUFFIX,oricon.co.jp
-DOMAIN-SUFFIX,ameblo.jp
-
 # DMM
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmmapis.com
-
-# Japan-Mobilegames-Website
-DOMAIN-SUFFIX,appmedia.jp
-DOMAIN-SUFFIX,gamewith.jp
-DOMAIN-SUFFIX,daa.jp
-DOMAIN-SUFFIX,shadowverse-wins.com
