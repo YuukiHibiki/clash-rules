@@ -2,3 +2,6 @@
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmmapis.com
+
+# Japan Web
+DOMAIN-SUFFIX,oricon.co.jp
