@@ -1,4 +1,5 @@
 # Shadowverse
+#PROCESS-NAME,Shadowverse.exe
 DOMAIN-SUFFIX,shadowverse.jp
 DOMAIN-SUFFIX,shadowverse.akamaized.net
 DOMAIN-SUFFIX,cygames.jp
