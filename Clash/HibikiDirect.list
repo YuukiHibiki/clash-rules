@@ -3,8 +3,12 @@ IP-CIDR,122.226.161.16/24,no-resolve
 DOMAIN,music.jsososo.com
 DOMAIN-SUFFIX,saraba1st.com
 DOMAIN-SUFFIX,keylol.com
+
+# AGE Anime
 DOMAIN-SUFFIX,agefans.tv
 DOMAIN-SUFFIX,agefans.net
 DOMAIN-SUFFIX,agefans.cc
 DOMAIN-SUFFIX,agefans.vip
 DOMAIN-SUFFIX,agefans.live
+DOMAIN-SUFFIX,agemys.com/
+DOMAIN-SUFFIX,age.tv
