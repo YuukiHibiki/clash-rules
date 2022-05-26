@@ -1,14 +1,8 @@
-# China Web
-IP-CIDR,122.226.161.16/24,no-resolve
-DOMAIN,music.jsososo.com
-DOMAIN-SUFFIX,saraba1st.com
-DOMAIN-SUFFIX,keylol.com
-
 # 森之屋动漫
 DOMAIN-SUFFIX,senfun.net
 DOMAIN-SUFFIX,v3mh.com
 
-# AGE Anime
+# AGE动漫
 DOMAIN-SUFFIX,agefans.tv
 DOMAIN-SUFFIX,agefans.net
 DOMAIN-SUFFIX,agefans.cc
@@ -17,5 +11,5 @@ DOMAIN-SUFFIX,agefans.live
 DOMAIN-SUFFIX,agemys.com
 DOMAIN-SUFFIX,age.tv
 
-# PikPak
+# PikPak云盘
 DOMAIN-SUFFIX,mypikpak.com
