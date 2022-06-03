@@ -1,14 +1,19 @@
-# Emby
-DOMAIN-SUFFIX,emby.wtf 
-DOMAIN-SUFFIX,flowercloud.yt 
-DOMAIN-SUFFIX,jmsooo.com 
+# Emby 
+DOMAIN-SUFFIX,emby.wtf
+;终点站
+DOMAIN-SUFFIX,jmsooo.com
+;卷毛鼠
+DOMAIN-SUFFIX,misakaf.xyz
+;misakaf
 
-# Global Media
-DOMAIN-SUFFIX,jable.tv
-DOMAIN-SUFFIX,hanime1.me
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,xvideos.com
-
-# Global Anime
+# 在线动画
 DOMAIN-SUFFIX,aniopen.an-i.workers.dev
+;ANi Open
 DOMAIN-SUFFIX,bangumi.online
+;アニメ新番組
+DOMAIN-SUFFIX,senfun.net
+DOMAIN-SUFFIX,v3mh.com
+;森之屋
+
+# PikPak
+DOMAIN-SUFFIX,mypikpak.com
