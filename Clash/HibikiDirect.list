@@ -1,3 +1,9 @@
-# 个人用直连域名
+#DDNS
 DOMAIN,tomoriru.ddns.net
 DOMAIN-SUFFIX,hibikiddns.asia
+DOMAIN-SUFFIX,hibiki.fun
+
+#Hollycrm
+DOMAIN-SUFFIX,7x24cc.com
+
+
