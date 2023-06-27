@@ -1,5 +1,6 @@
-配置文件规则集
+based on
+tindy2013/subconverter
+blackmatrix7/ios_rule_script
+ACL4SSR/ACL4SSR
 
-基于ACL4SSR lhie1 ConnersHua的配置 
-
-自用
+Thank you all
