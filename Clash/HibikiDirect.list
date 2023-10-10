@@ -1,6 +1,7 @@
-# DDNS
+# MySite
 DOMAIN-SUFFIX,hibikiddns.asia
 DOMAIN-SUFFIX,hibiki.fun
+DOMAIN-SUFFIX,k8stest.org
 
 # Emby 
 DOMAIN-SUFFIX,misakaf.xyz
