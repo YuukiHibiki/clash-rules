@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,greenmangaming.com
 DOMAIN-SUFFIX,7x24cc.com
 
 # China-site
-DOMAIN,img.nga.178.com
-DOMAIN,img4.nga.178.com
-DOMAIN,tb.himg.baidu.com
+DOMAIN-SUFFIX,img.nga.178.com
+DOMAIN-SUFFIX,img4.nga.178.com
+DOMAIN-SUFFIX,himg.baidu.com
 
